@@ -1,0 +1,6 @@
+dependencies:
+- name: dropzone
+  version: 4.3.0
+  src: "htmlwidgets/lib"
+  script: dropzone.js
+  stylesheet: dropzone.css
